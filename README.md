@@ -18,5 +18,5 @@ Instructor: [Andrew NG] https://www.andrewng.org/
 # Pre-trained model VGG
 https://www.dropbox.com/s/bplbxdt4aa5hyli/pretrained-model.rar?dl=0
 
-# Disclaimer
+# Acknowledgement
 All the code base, screenshot, and images, are taken from, unless specified, https://www.coursera.org/specializations/deep-learning
