@@ -7,26 +7,18 @@ This is my personal projects for the course. The course covers deep learning fro
 Instructor: [Andrew Ng, DeepLearning.ai]()
 
 # Outcome
-<img src="./output/0.png" height="400" />
+<img src="./output/0.png" height="300" />
 
-<img src="./output/20.png" height="400" />
+<img src="./output/20.png" height="300" />
 
-<img src="./output/40.png" height="400" />
+<img src="./output/40.png" height="300" />
 
-<img src="./output/60.png" height="400" />
+<img src="./output/60.png" height="300" />
 
-<img src="./output/80.png" height="400" />
+<img src="./output/100.png" height="300" />
 
-<img src="./output/100.png" height="400" />
+<img src="./output/140.png" height="300" />
 
-<img src="./output/120.png" height="400" />
+<img src="./output/generated_image.png" height="300" />
 
-<img src="./output/140.png" height="400" />
-
-<img src="./output/160.png"  height="400" />
-
-<img src="./output/180.png" height="400" />
-
-<img src="./output/generated_image.png" height="400" />
-
-<img src="./images/berserk.jpeg" height="400" />
+<img src="./images/berserk.jpeg" height="300" />
