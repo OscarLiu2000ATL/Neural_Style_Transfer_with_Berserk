@@ -7,9 +7,7 @@ This is my personal projects for the deep learning course.
 Instructor: https://www.andrewng.org/
 
 # Outcome
-<img src="./output/0.png" height="300" />
-
-<img src="./output/20.png" height="300" />
+<img src="./output/0.png" height="300" />      <img src="./output/20.png" height="300" />
 
 <img src="./output/40.png" height="300" />
 
