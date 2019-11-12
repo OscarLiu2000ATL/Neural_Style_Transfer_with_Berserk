@@ -4,7 +4,7 @@ Time to merge two of my favorite comics together! Berserk's apocalyptic style fi
 
 This is my personal projects for the deep learning course.
 
-Instructor: https://www.andrewng.org/
+Instructor: [Andrew NG] https://www.andrewng.org/
 
 # Outcome
 <img src="./output/0.png" height="300" />    <img src="./output/20.png" height="300" />
@@ -19,4 +19,4 @@ Instructor: https://www.andrewng.org/
 https://www.dropbox.com/s/bplbxdt4aa5hyli/pretrained-model.rar?dl=0
 
 # Disclaimer
-All the code base, screenshot, and images, are taken from, unless specified https://www.coursera.org/specializations/deep-learning
+All the code base, screenshot, and images, are taken from, unless specified, https://www.coursera.org/specializations/deep-learning
