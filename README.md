@@ -4,7 +4,7 @@ Time to merge two of my favorite comics together! Berserk's apocalyptic style fi
 
 This is my personal projects for the deep learning course.
 
-Instructor: [Andrew Ng, DeepLearning.ai]()
+Instructor: https://www.andrewng.org/
 
 # Outcome
 <img src="./output/0.png" height="300" />
@@ -22,3 +22,9 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 <img src="./output/generated_image.png" height="300" />
 
 <img src="./images/berserk.jpeg" height="300" />
+
+# Pre-trained model VGG
+https://www.dropbox.com/s/bplbxdt4aa5hyli/pretrained-model.rar?dl=0
+
+# Disclaimer
+All the code base, screenshot, and images, are taken from, unless specified https://www.coursera.org/specializations/deep-learning
