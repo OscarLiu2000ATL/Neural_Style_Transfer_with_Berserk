@@ -13,7 +13,7 @@ Instructor: https://www.andrewng.org/
 
 <img src="./output/100.png" height="300" />    <img src="./output/140.png" height="300" />
 
-<img src="./output/generated_image.png" height="300" />    <img src="./images/berserk.jpeg" height="300" />
+<img src="./output/generated_image.jpg" height="300" />    <img src="./images/berserk.jpeg" height="300" />
 
 # Pre-trained model VGG
 https://www.dropbox.com/s/bplbxdt4aa5hyli/pretrained-model.rar?dl=0
