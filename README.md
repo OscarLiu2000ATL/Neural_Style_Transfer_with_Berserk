@@ -2,7 +2,7 @@
 
 Time to merge two of my favorite comics together! Berserk's apocalyptic style fits the theme of Attack on Titan.
 
-This is my personal projects for the deep learning course.
+This is my project for the deep learning course.
 
 Instructor: [Andrew NG] https://www.andrewng.org/
 
