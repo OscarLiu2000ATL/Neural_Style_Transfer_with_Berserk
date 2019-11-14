@@ -9,9 +9,9 @@ Instructor: [Andrew NG] https://www.andrewng.org/
 # Outcome
 <img src="./output/0.png" height="240" />    <img src="./output/20.png" height="240" />
 
-<img src="./output/60.png" height="240" />    <img src="./output/100.png" height="240" />
+<img src="./output/40.png" height="240" />    <img src="./output/80.png" height="240" />
 
-<img src="./output/140.png" height="240" />    <img src="./output/generated_image.jpg" height="240" />
+<img src="./output/120.png" height="240" />    <img src="./output/generated_image.jpg" height="240" />
 
 <img src="./images/berserk.jpeg" height="240" />
 
